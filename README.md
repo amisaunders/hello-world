@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi there!
+
+I'm just Ami and I am practicing my github skills 
+so I can manage my code versioning better.  
